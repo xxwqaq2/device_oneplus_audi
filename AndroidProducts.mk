@@ -4,4 +4,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_audi.mk
+    $(LOCAL_DIR)/infinity_audi.mk
